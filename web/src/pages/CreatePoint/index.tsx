@@ -122,7 +122,7 @@ const CreatePoint: React.FC = () => {
     }
 
     await api.post('points', submitData);
-    console.log(submitData);
+    alert('Cadastro feito com sucesso!');
     history.push('/')
   }
 
