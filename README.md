@@ -7,8 +7,7 @@ _________
 
 O Ecoleta é um projeto desenvolvimento na semana do meio ambiente e tem como objetivo gerenciar o processo de coleta de lixos nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de forma mais fácil e eficiente.
 
-![alt text](https://github.com/rodolforoc/nextLevelWeek/blob/master/web/src/assets/Ecoletaweb.png "Ecoleta Web")
-![alt text](https://github.com/rodolforoc/nextLevelWeek/blob/master/web/src/assets/ecoletamobile.jpeg "Ecoleta Mobile")
+![alt text](https://github.com/rodolforoc/nextLevelWeek/blob/master/web/src/assets/ecoleta.png "Ecoleta")
 
 _________
 
